@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoiseCalculator", "PoiseCalculator\PoiseCalculator.csproj", "{EBB090A1-5D68-4986-94CB-7988579B4C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB090A1-5D68-4986-94CB-7988579B4C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB090A1-5D68-4986-94CB-7988579B4C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB090A1-5D68-4986-94CB-7988579B4C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB090A1-5D68-4986-94CB-7988579B4C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC8399C-20FD-423D-98A1-286271A8D8AF}
+	EndGlobalSection
+EndGlobal

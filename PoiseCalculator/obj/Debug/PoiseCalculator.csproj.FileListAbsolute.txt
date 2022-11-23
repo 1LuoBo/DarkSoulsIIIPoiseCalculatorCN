@@ -1,0 +1,12 @@
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\bin\Debug\PoiseCalculator.exe.config
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\bin\Debug\PoiseCalculator.exe
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\bin\Debug\PoiseCalculator.pdb
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.csproj.AssemblyReference.cache
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.Properties.Resources.resources
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.csproj.GenerateResource.cache
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.exe
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.pdb
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.Form1.resources
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.Main.resources
+C:\Users\LuoBo\source\repos\PoiseCalculator\PoiseCalculator\obj\Debug\PoiseCalculator.Form2.resources
